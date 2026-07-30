@@ -1,16 +1,63 @@
-## Hi there 👋
+# Game Hall ⚽
 
-<!--
-**gamehallhgs/gamehallhgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Game Hall is an early-stage sports-tech project that aims to simplify sports facility bookings and revolutionize the way amateur sports games are organized.
 
-Here are some ideas to get you started:
+Our platform allows users to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Book sports facilities.
+- Create and join public or private game lobbies.
+- Find players to complete their teams.
+- Organize games more efficiently.
+- Split the rental cost among all players.
+
+---
+
+## Our Mission
+
+We want to make amateur sports more accessible and easier to organize by connecting sports facilities and players in a single platform.
+
+Our goal is also to give a second life to underused sports facilities.
+
+Whether you're looking for a place to play or searching for teammates, Game Hall will help you do it in just a few clicks.
+
+---
+
+## Main Features
+
+### Sports Facilities
+
+- Browse available sports venues.
+- Check schedules, prices and reviews.
+- View available sports and amenities.
+- Book facilities online.
+
+### Game Lobbies
+
+- Create public or private lobbies.
+- Invite friends to your games.
+- Find players nearby.
+- Manage participants easily.
+- Connect with other players through the lobby chat
+
+### Community
+
+- Connect players with sports facilities.
+- Improve the occupancy of sports venues.
+- Simplify the organization of amateur sports.
+
+---
+
+## Project Status
+
+> Currently under development.
+
+At this stage, we are validating the idea, collecting feedback from users and sports facilities, and building the first version of the platform.
+
+
+## Contact
+
+If you'd like to follow the project's development or provide feedback, feel free to get in touch.
+
+
+
+Game Hall © 2026
